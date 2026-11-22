@@ -58,8 +58,6 @@ Sprite source files made in [Piskel](https://www.piskelapp.com/) (`*.piskel`) ar
 
 **Instructors:** Ding Xiang Cheng, Gerald Wong
 
-**President:** Claude Comair
-
 ### Third-party assets and libraries
 
 - [CProcessing](https://github.com/DigiPen-Faculty/CProcessing), DigiPen Institute of Technology
