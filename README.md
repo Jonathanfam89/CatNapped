@@ -2,7 +2,7 @@
 
 A 2D pixel-art platformer set in the Wild West. Bandits have kidnapped Butter the cat, and you play a cowboy racing to save Butter before the timer runs out. Shoot bandits, dodge cacti and bombs, find the key, and use your lasso to pull crates and swing across gaps.
 
-Team ByteSized made CatNapped! as a student project at DigiPen Institute of Technology Singapore in 2024. It is written in C with the [CProcessing](https://github.com/DigiPen-Faculty/CProcessing) framework and uses FMOD for audio.
+Team ByteSized made CatNapped! as a project at DigiPen Institute of Technology Singapore in 2024. It is written in C with the [CProcessing](https://github.com/DigiPen-Faculty/CProcessing) framework and uses FMOD for audio.
 
 ## Running the game
 1. Clone or download this repository.
